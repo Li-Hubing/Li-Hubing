@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-### 🌱 I’m currently learning Multimodal General Artificial Intelligence
+### 🔭 I’m a second-year naster's student in the School of civil Engineering at Southeast University.
+### 🌱 I’m currently learning Multimodal General Artificial Intelligence，focusing primarily on vision and text.
 ### 👯 I’m looking to collaborate on Multimodal General Artificial Intelligence
 
 
