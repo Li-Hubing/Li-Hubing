@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m a second-year naster's student in the School of civil Engineering at Southeast University.
-### 🌱 Currently, I’m immersed in the study of Multimodal General Artificial Intelligence，with a strong emphasis on vision and text.
-### 👯 I’m actively seeking collaboration opportunities in the mentioned research field. Feel free to reach out if you're interested in collaborating!
+### 🌱 Currently, I’m immersed in the study of Multimodal General Artificial Intelligence.
+### 👯 Feel free to reach out if you're interested in collaborating!
 
 
 <!--
