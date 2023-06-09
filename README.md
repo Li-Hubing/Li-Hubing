@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m a second-year master's student in the School of civil Engineering.
+### 🔭 I’m a second-year master's student in the School of Civil Engineering.
 ### 🌱 Currently, I’m immersed in the study of Multimodal General Artificial Intelligence.
 ### 👯 Feel free to reach out if you're interested in collaborating!
 
