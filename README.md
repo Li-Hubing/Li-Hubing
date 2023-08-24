@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m a student in the School of Civil Engineering.
-### 🌱 Currently, I’m immersed in the study of Multimodal General Artificial Intelligence.
+### 🌱 Currently, I’m immersed in the study of AI Agent.
 ### 👯 Feel free to reach out if you're interested in collaborating!
 
 
